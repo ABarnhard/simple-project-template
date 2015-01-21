@@ -1,0 +1,12 @@
+{
+  "name": "simple-template",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ABarnhard/simple-project-template",
+  "authors": [
+    "Adam Barnhard <admbarn@gmail.com>"
+  ],
+  "description": "Starter Template for front end sites",
+  "license": "MIT",
+  "dependencies": {
+  }
+}

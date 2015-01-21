@@ -1,0 +1,9 @@
+node_modules/
+#client/
+#.jscsrc
+#.jshintrc
+#bower.json
+#.bowerrc
+#Gruntfile.js
+
+
